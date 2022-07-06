@@ -1,3 +1,3 @@
 # api-go-rest
-It's an implementation of an API Rest about famous personalities.
-The Frontend was developed with React
+It's an implementation of a API Rest about famous personalities.
+The Frontend is building with React.
